@@ -8,18 +8,17 @@ Worked with HTML forms to enhance interactivity on your website. You'll learn ho
 - Styled an HTML form using CSS rules
 - Responded to a submit event based on user input using JavaScript
 
-## Getting Started 🧑‍🏫
-### Step 1: Create a Form
+### Created a Form
 - Added a `<form>` element to your HTML file
 - Added `<input>` elements for user input fields
 - Used `<label>` elements to describe each input field
 
-### Step 2: Style the Form
+### Styled the Form
 - Used CSS to style the form elements
 - Set `display: block;` for the input elements to stack them vertically
 - Used margins to create space between elements
 
-### Step 3: Respond to User Input
+### Responded to User Input
 - Created a JavaScript function to handle form submission
 - Used `document.getElementById()` to get input values
 - Used `console.log()` to print input values to the console
